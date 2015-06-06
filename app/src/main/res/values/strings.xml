@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Titulacion</string>
+    <string name="hola_naye">Registro Total de Alumnos!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Password">Password</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="bienvenido">BIENVENIDOS</string>
+    <string name="alumnos">Alumnos</string>
+    <string name="salir">Salir</string>
+    <string name="title_activity_alumnos">ALUMNOS</string>
+    <string name="nocontrol">No. Control</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="email">E-mail</string>
+    <string name="carrera">Carrera</string>
+    <string name="egreso">Egreso</string>
+    <string name="ot">Opcion de Titulacion</string>
+    <string name="ft">Fecha de Titulacion</string>
+    <string name="observacion">Observaciones</string>
+    <string name="ELIGA_UNA_OPCION">ELIGA UNA OPCIÓN</string>
+
+    <string name="consulta">Consulta</string>
+    <string name="baja">Eliminar</string>
+    <string name="modificar">Modificar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="ver">Ver</string>
+    <string name="Acercade">Acerca de</string>
+    <string name="Salir">Salir</string>
+    <string name="title_activity_acer">acer</string>
+    <string name="desarrolladores">DESARROLLADORES</string>
+    <string name="dna">Nombre: Anayeli Torres Jaramillo</string>
+    <string name="dna1">Semestre: VIII</string>
+    <string name="dna2">Carrera: Ingenieria en Informatica</string>
+    <string name="dna3">Nombre: Reynaldo Muñoz Rafael</string>
+    <string name="dna4">Semestre:VIII</string>
+    <string name="dna5">Carrera:Ingeneria en Informatica</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_vista_registro">REGISTRO DE ALUMNOS</string>
+
+</resources>
